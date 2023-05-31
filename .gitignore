@@ -1,2 +1,4 @@
 .python-version
-venv/
+.venv/
+.env
+.ipynb_checkpoints/
